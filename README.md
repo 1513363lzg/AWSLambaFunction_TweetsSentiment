@@ -1,7 +1,4 @@
 # AWS Lamba Function
-<ul>
-  <li> Contributor: Yongyi(Nikki)Zhao</li>
-</ul>
 
 ## Overview
 <p> 
